@@ -10,4 +10,4 @@ Files:
 
 	maindata.7z -- zip file containing data from Levine et al. (2011)
   
-	LICENSE -- license for the data found in maindata.7z
+	LICENSE.txt -- license for the data found in maindata.7z
