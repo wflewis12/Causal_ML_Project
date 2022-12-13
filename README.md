@@ -8,7 +8,7 @@ This repo contains data/programs/images used to replicate the paper:
 
 Files/Folders:
 
-	The Casual Effect of SCHIP Implementation on Insurance Coverage.pdf -- Final report pdf
+	The Causal Effect of SCHIP Implementation on Insurance Coverage.pdf -- Final report pdf
 	Graphs -- Contains all images used in the final paper
 	AIPTW_confounders_droppped.ipynb -- Robustness check when dropping confounders
 	AIPTW_estimator -- Creates the pre- and post-trend ATT(g,t) graphs with the AIPTW estimator
